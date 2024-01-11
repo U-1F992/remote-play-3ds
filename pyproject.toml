@@ -1,9 +1,11 @@
 [tool.poetry]
 name = "remote-play-3ds"
 version = "0.1.0"
-description = ""
+description = "Remote play your modded 3DS."
 authors = ["Koutaro Mukai <mukai.k1011k@outlook.jp>"]
 readme = "README.md"
+homepage = "https://github.com/U-1F992/remote-play-3ds"
+repository = "https://github.com/U-1F992/remote-play-3ds"
 
 [tool.poetry.dependencies]
 python = "^3.12"
